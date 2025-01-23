@@ -1,4 +1,4 @@
 # ProjectTimer  
 [Back to Main](https://michelvilleneuve.github.io/)  
 
-<img src = "ProjectTimer.jpg" />
+<img src = "ProjectsTimer.jpg" />
